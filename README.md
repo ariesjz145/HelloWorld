@@ -1,2 +1,2 @@
 # HelloWorld
-This assingment#1 for OOP
+This assignment#1 for OOP
